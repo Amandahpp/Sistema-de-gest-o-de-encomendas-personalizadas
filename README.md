@@ -54,3 +54,8 @@ O sistema destina-se principalmente a pequenos empreendedores e empresas que tra
 - [Funcionalidades](docs./uncionalidades.md)
 - [Requisitos Funcionais e Não Funcionais](docs./requisitosfuncionais.md)
 - [Resultados e Considerações Finais](docs./resultadoseconsideracoes.md)
+
+## Caso de Uso 
+
+-[Diagrama do Caso de Uso](caso de uso/imagem do caso de uso)
+-[Documentacao Caso de Uso](caso de uso/documentacao)
