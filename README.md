@@ -46,7 +46,7 @@ O sistema destina-se principalmente a pequenos empreendedores e empresas que tra
 
 ## 6. Documentação
 
-  A documentação complementar do projeto está disponível na pasta
+  A documentação complementar do projeto está disponível na pasta [Docs](docs./docs.)
 
 - [Atores](docs./atores.md)
 - [Modelagem UML](docs./modelagemUML.md)
