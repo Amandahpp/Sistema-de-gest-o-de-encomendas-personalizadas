@@ -44,10 +44,13 @@ O sistema destina-se principalmente a pequenos empreendedores e empresas que tra
 - Artesãos e produtores independentes.
 - Pequenos negócios que trabalham com encomendas sob medida.
 
-  ## 6. Documentação
+## 6. Documentação
 
   A documentação complementar do projeto está disponível na pasta
-  docs./
-├── atores.md
-├── requisitosfuncionais.md
-└── regrasdenegocio.md
+
+- [Atores](docs./atores.md)
+- [Modelagem UML](docs./modelagemUML.md)
+- [Regras de Negocio](docs./regrasdenegocio.md)
+- [Funcionalidades](docs./uncionalidades.md)
+- [Requisitos Funcionais e Não Funcionais](docs./requisitosfuncionais.md)
+- [Resultados e Considerações Finais](docs./resultadoseconsideracoes.md)
