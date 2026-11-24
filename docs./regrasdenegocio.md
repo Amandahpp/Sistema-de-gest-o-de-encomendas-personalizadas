@@ -1,4 +1,5 @@
 10. Regras de negócio iniciais
+
 RN01: Toda encomenda deve estar associada a um cliente cadastrado.
 RN02: Uma encomenda deve possuir a descrição do produto e de suas especificações de personalização.
 RN03: A produção somente poderá ser iniciada após a aprovação do orçamento e a confirmação do pedido, conforme as condições comerciais estabelecidas.
