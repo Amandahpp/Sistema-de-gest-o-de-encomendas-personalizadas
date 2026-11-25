@@ -46,16 +46,16 @@ O sistema destina-se principalmente a pequenos empreendedores e empresas que tra
 
 ## 6. Documentação
 
-  A documentação complementar do projeto está disponível na pasta [Docs](docs./docs.)
+  A documentação complementar do projeto está disponível na pasta Docs.
 
-- [Atores](docs./atores.md)
-- [Modelagem UML](docs./modelagemUML.md)
-- [Regras de Negocio](docs./regrasdenegocio.md)
-- [Funcionalidades](docs./uncionalidades.md)
-- [Requisitos Funcionais e Não Funcionais](docs./requisitosfuncionais.md)
-- [Resultados e Considerações Finais](docs./resultadoseconsideracoes.md)
+- [Atores](docs/atores.md)
+- [Modelagem UML](docs/modelagemUML.md)
+- [Regras de Negocio](docs/regrasdenegocio.md)
+- [Funcionalidades](docs/funcionalidades.md)
+- [Requisitos Funcionais e Não Funcionais](docs/requisitosfuncionais.md)
+- [Resultados e Considerações Finais](docs/resultadoseconsideracoes.md)
 
 ## Caso de Uso 
 
--[Diagrama do Caso de Uso](caso de uso/imagem do caso de uso)
--[Documentacao Caso de Uso](caso de uso/documentacao)
+-[Diagrama do Caso de Uso](CasoDeUso/diagramadeuso.drawio.png)
+-[Documentacao Caso de Uso](CasoDeUso/documentacaoCasoDeUso.md)
